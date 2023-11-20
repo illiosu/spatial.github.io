@@ -1,0 +1,31 @@
+{
+  "name": "1",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mapgis/leaflet": "^16.4.0",
+    "@turf/projection": "^6.5.0",
+    "@turf/turf": "^6.5.0",
+    "element-plus": "^2.3.14",
+    "geotiff": "^2.1.0",
+    "leaflet": "^1.9.4",
+    "leaflet-draw": "^1.0.4",
+    "leaflet-measure": "^3.1.0",
+    "leaflet.pm": "^2.2.0",
+    "three": "^0.157.0",
+    "tiff.js": "^1.0.0",
+    "turf": "^3.0.14",
+    "upng": "^1.0.1",
+    "utif": "^3.1.0",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.3.1",
+    "vite": "^4.4.9"
+  }
+}
